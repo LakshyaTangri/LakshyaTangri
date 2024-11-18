@@ -35,7 +35,7 @@ ENTERPRISE ARCHITECT: DESIGNING FULL SCALE ENTERPRISE WIDE MODELS USING TOGAF
 
 How am I am able to become an EA? 
 
-A view on my Journey: 
+A view on my Journey: https://www.linkedin.com/in/lakshyatangri
 
 <!---
 LakshyaTangri/LakshyaTangri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
