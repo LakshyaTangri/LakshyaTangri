@@ -1,6 +1,6 @@
 Creating levels of projects (from low level to high level view) based on skills from my previous roles and explaining each project from a management and process perspective:
 
-Projects are based on latest models in Machine learning, LLMs, Blockchain, Defi, etc and are in the sector of Finance, Management and ICTs (Information Communication Tools) Business sector.
+Projects & Platforms are based on latest models in Machine learning, LLMs, Blockchain, Defi and Deep learning Model space and are in the sector of Finance, Management and ICTs Businesses.
 
 INDEX:
 
