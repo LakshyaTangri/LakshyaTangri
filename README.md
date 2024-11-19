@@ -4,9 +4,9 @@ Projects & Platforms are based on latest models in Machine learning, LLMs, Block
 
 INDEX:
 
-DATA ANALYSIS: ANALYTICAL MODELS 
-- PROJECT 1: Risk-Management-Framework-with-Ramdom forest (Predictive-Analytics)
-- PROJECT 2: Digital-Financial-Planning-and-Analysis (FPA) with
+DATA ANALYSIS: ANALYTICAL MODELS (Predictive-Analytics)
+- PROJECT 1: Risk-Management-Framework-with-Ramdom forest 
+- PROJECT 2: Supermarket-Sales-Forcasting-Analytics-Platform-with-Time-series 
 - PROJECT 3:
 - PROJECT 4:
 - PROJECT 5:
