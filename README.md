@@ -7,7 +7,7 @@ INDEX:
 DATA ANALYSIS: ANALYTICAL MODELS (Predictive-Analytics)
 - PROJECT 1: Risk-Management-Framework-with-Ramdom forest 
 - PROJECT 2: Supermarket-Sales-Forcasting-Analytics-Platform-with-Time-series 
-- PROJECT 3:
+- PROJECT 3: student-risk-predictor-ensemble-with-RF-XGBoost
 - PROJECT 4:
 - PROJECT 5:
 
