@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My Profile!
 
 ## 🌟 About Me
 Hi, I'm **Lakshya Tangri**, a dynamic professional who bridges the worlds of **technology** and **business strategy**. With **4+ years of management experience** and expertise in **analytics**, **machine learning**, **MATLAB**, **enterprise architecture**, and **digital business strategies**, I create innovative solutions to complex business problems.  
@@ -14,7 +14,7 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 
 ## 💼 Featured Projects
 
-### 1. Risk Management Framework with Predictive Analytics  
+### 1. Price Predictive ML Model Ecomatrices, Geopolitical and 
 - **Description**: Developed a Python-based framework to identify and mitigate financial risks such as credit, liquidity, and market risks.  
 - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib.  
 - **Impact**: Enables organizations to adopt **proactive risk management** by leveraging predictive insights.  
@@ -23,9 +23,9 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 ---
 
 ### 2.  
-- **Description**: A sentiment analysis tool that evaluates AI-generated vs. human-written content and classifies trends in market or consumer behavior.  
-- **Technologies**: NLP, Hugging Face, GPT-3, Flask.  
-- **Impact**: Supports decision-making by uncovering consumer sentiment and market trends for strategic planning.  
+- **Description**:   
+- **Technologies**:   
+- **Impact**:   
 [**Explore Repository →**](#)
 
 ---
@@ -40,7 +40,7 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 
 ### 4. Digital Transformation of FP&A  
 - **Description**: Built a dashboard integrating **predictive analytics** for financial planning and analysis to automate forecasting and reporting processes.  
-- **Technologies**: Power BI, Python, Tableau, AWS Lambda.  
+- **Technologies**: Power BI, Python, Matlab, AWS Lambda.  
 - **Impact**: Enhances forecasting accuracy and operational efficiency for finance teams.  
 [**Explore Repository →**](#)
 
@@ -62,7 +62,7 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 | **Machine Learning**     | Scikit-learn, TensorFlow, NLP, MATLAB ML Toolbox |
 | **Cloud & Architecture** | AWS (S3, Lambda, EC2), TOGAF, BPMN 2.0          |
 | **Business Skills**      | Problem-Solving, Financial Modeling, Strategy   |
-| **Digital Strategies**   | Digital Transformation, Business Process Optimization |
+| **Digital Strategies**   | Machine Learning Model, Digital Transformation, Business Process Optimization |
 
 ---
 
