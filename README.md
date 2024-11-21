@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🌟 About Me
-Hi, I'm **Lakshya Tangri**, a dynamic professional who bridges the worlds of **technology** and **business strategy**. With **4+ years of management experience** and expertise in **Machine Learning Modelling**, **MATLAB**, **Enterprise Architecture**, **Cloud Architecture** and **Go-To-Market Strategies**, I create innovative solutions to complex business problems.  
+Hi, I'm **Lakshya Tangri**, a dynamic professional who bridges the worlds of **technology** and **business strategy**. With **4+ years of management experience** and expertise in **analytics**, **machine learning**, **MATLAB**, **enterprise architecture**, and **digital business strategies**, I create innovative solutions to complex business problems.  
 
 Currently pursuing a **Master’s in Information Systems and Digital Innovation**, I focus on leveraging technology to deliver **measurable impact** and **transformational growth**. My portfolio reflects my passion for solving strategic challenges, from **risk management** to **digital transformation**.
 
@@ -22,7 +22,7 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 
 ---
 
-### 2. SentimentalHumanizer  
+### 2.  
 - **Description**: A sentiment analysis tool that evaluates AI-generated vs. human-written content and classifies trends in market or consumer behavior.  
 - **Technologies**: NLP, Hugging Face, GPT-3, Flask.  
 - **Impact**: Supports decision-making by uncovering consumer sentiment and market trends for strategic planning.  
@@ -62,7 +62,7 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 | **Machine Learning**     | Scikit-learn, TensorFlow, NLP, MATLAB ML Toolbox |
 | **Cloud & Architecture** | AWS (S3, Lambda, EC2), TOGAF, BPMN 2.0          |
 | **Business Skills**      | Problem-Solving, Financial Modeling, Strategy   |
-| **Strategies**           | Chicken-egg, Platform, Go-To-Market             |
+| **Digital Strategies**   | Digital Transformation, Business Process Optimization |
 
 ---
 
@@ -78,12 +78,12 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 
 ---
 
-## 🌐 Blockchain & Web3 Focus
-### Featured Tools:
-- **DeFi Risk Assessment**: Evaluates decentralized finance risks.  
-- **Blockchain-Based Supply Chain Tracking**: Increases transparency and accountability.  
+## 🌐 Digital Business Strategies Focus
+### Featured Areas:
+- **Digital Transformation**: Driving innovation and efficiency through enterprise-level strategies.  
+- **Business Process Optimization**: Enhancing operational workflows for measurable ROI.  
 
-[**Explore Blockchain Projects →**](#)
+[**Explore Digital Strategies Projects →**](#)
 
 ---
 
@@ -97,6 +97,6 @@ I am open to collaborations on **consulting-oriented solutions**, **enterprise a
 
 ## 📌 Next Steps
 - Developing case-study-based projects to simulate consulting scenarios.  
-- Expanding on **blockchain-focused solutions** and **MATLAB-based ML tools** for enterprise use cases.  
+- Expanding on **MATLAB-based ML tools** and **digital business strategies** for enterprise use cases.  
 
 **Thank you for visiting my profile! Let’s innovate together. 🌟**
