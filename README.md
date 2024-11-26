@@ -1,7 +1,7 @@
 # 👋 Welcome to My Profile!
 
 ## 🌟 About Me
-Hi, I'm **Lakshya Tangri**, a dynamic professional who bridges the worlds of **technology** and **business strategy**. With **4+ years of management experience** and expertise in **analytics**, **machine learning**, **MATLAB**, **enterprise architecture**, and **digital business strategies**, I create innovative solutions to complex business problems.  
+Hi, I'm **Lakshya Tangri**, an Ex-entrepreneur, decision maker, and a dynamic professional who bridges the worlds of **technology** and **business strategy**. With **4+ years of management experience** and expertise in **analytics**, **machine learning**, **MATLAB**, **enterprise architecture**, and **digital business strategies**, I create innovative solutions to complex business problems.  
 
 Currently pursuing a **Master’s in Information Systems and Digital Innovation**, I focus on leveraging technology to deliver **measurable impact** and **transformational growth**. My portfolio reflects my passion for solving strategic challenges, from **risk management** to **digital transformation**.
 
@@ -12,27 +12,43 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 
 ---
 
+Languages: C | PYTHON | MATLAB | R | SQL 
+My skills & Tools: 
+       - Data Science, 
+       - Machine Learning, 
+       - Cloud architecture, 
+       - Enterprise architecture, 
+       - BPMN (Processes),
+       - Digital Business & GTM Strategies
+       - Consultancy
+        
 ## 💼 Featured Projects
 
 ### 1. Price Predictive ML Model Ecomatrices, Geopolitical and 
+- **Project Overview**:
 - **Description**: Developed a Python-based framework to identify and mitigate financial risks such as credit, liquidity, and market risks.  
-- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib.  
+- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib.
+- **Methodology**:
 - **Impact**: Enables organizations to adopt **proactive risk management** by leveraging predictive insights.  
 [**Explore Repository →**](https://github.com/LakshyaTangri/Risk-Management-Framework-with-Predictive-Analytics)
 
 ---
 
 ### 2.  
+- **Project Overview**:
 - **Description**:   
-- **Technologies**:   
+- **Technologies**:
+- **Methodology**:
 - **Impact**:   
 [**Explore Repository →**](#)
 
 ---
 
 ### 3. MATLAB-Based ML Model for Business Insights *(Upcoming)*  
+- **Project Overview**:
 - **Description**: Using MATLAB to create predictive models for business applications such as churn prediction, operational efficiency, and pricing optimization.  
-- **Technologies**: MATLAB, Machine Learning Toolbox.  
+- **Technologies**: MATLAB, Machine Learning Toolbox.
+- **Methodology**:
 - **Impact**: Demonstrates MATLAB's potential in delivering scalable ML solutions for real-world problems.  
 [**Explore Repository →**](#)
 
