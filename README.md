@@ -12,15 +12,16 @@ I am preparing to transition into a consulting role at a **top-tier firm (MBB)**
 
 ---
 
-**Languages**: C | PYTHON | MATLAB | R | SQL 
-**My skills & Tools:** 
-**- Data Science, **
-**- Machine Learning, **
-**- Cloud architecture, **
-**- Enterprise architecture,** 
-**- BPMN (Processes),**
-**- Digital Business & GTM Strategies**
-**- Consultancy**
+**Languages**: C | PYTHON | MATLAB | R | SQL  <br>
+<br>
+**My skills & Tools:** <br>
+**- Data Science,**<br>
+**- Machine Learning,**<br>
+**- Cloud architecture,**<br>
+**- Enterprise architecture,**<br> 
+**- BPMN (Processes),**<br>
+**- Digital Business & GTM Strategies**<br>
+**- Consultancy**<br>
         
 ## 💼 Featured Projects
 
