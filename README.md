@@ -1,15 +1,9 @@
 # Financial Technology & AI Portfolio
 
 ## About Me
-Experienced Financial Technology professional specializing in AI-enabled systems, venture capital technology, and information security for DeFi platforms. My work focuses on combining artificial intelligence with enterprise architecture to create robust financial management solutions.
+Experienced Financial Technology professional specializing in AI-enabled systems, venture capital technology, and information security for DeFi platforms. My work focuses on combining artificial intelligence with enterprise architecture to create robust financial management information systems & solutions.
 
 ## 🚀 Featured Projects
-
-### AI-Enabled Financial Information System for Venture Capital
-- Designed and implemented an AI-powered FMIS using microservice architecture on Azure
-- Integrated machine learning models for investment analysis and risk assessment
-- Leveraged TOGAF framework for enterprise architecture implementation
-- Technologies: Azure Cloud, Microservices, AI/ML, Enterprise Architecture
 
 ### AI Hedge Fund Platform
 - Developed an automated trading system using artificial intelligence
@@ -17,13 +11,19 @@ Experienced Financial Technology professional specializing in AI-enabled systems
 - Built real-time portfolio monitoring and risk management systems
 - Technologies: Scrapping & APIs, Python, Neural Networks, Financial APIs, Cloud Computing
 
+### TimeSeries_Forcasting_Sales
+- Developed an automated time series forecasting system for sales prediction using Neural Networks
+- Implemented neural Networks ____ to identify patterns and trends in historical sales data
+- Used _______ Model, Activation Function: , number of neural Networks, Layers  
+- Created a user-friendly interface for business analysts to generate accurate forecasts with ease
+
 ### Information Security Strategy for UniSwap DeFi
 - Designed comprehensive security architecture for DeFi operations
 - Implemented smart contract security protocols and audit procedures
 - Developed incident response and risk mitigation strategies
-- Technologies: Blockchain, Smart Contracts, Security Frameworks
+- Security Frameworks Report
 
-### Portfolio Monitoring with SAP HANA Integration
+### Portfolio Monitoring with SAP HANA Integrations
 - Created an portfolio monitoring system integrated with SAP HANA
 - Implemented real-time analytics and reporting capabilities
 - Predictive analytics with industry specific KPIs
@@ -82,7 +82,5 @@ Specialized in implementing TOGAF-based framework for enterprise architecture, f
 - Awarded By Warwick Consulting Society Case Competition 2024
 - Awarded By The Government Of India (Honoured at State level on Republic Day Parade 2024)
 - Letter of recommendation from High Academic Achiever & Business Professionals in the industry
-
-
 
 ---
