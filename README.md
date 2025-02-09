@@ -70,14 +70,14 @@ Specialized in implementing TOGAF-based framework for enterprise architecture, f
 - Created efficient portfolio monitoring systems
 - Integrated complex enterprise systems
 
-### Certificates
+## Certificates
 Certified: Togaf Enterprise Architect Foundation & Practitioner, Knowledge Academy 
 Certified: Bloomberg Terminal Expert : Market Concepts On Terminal (BMC)
 Certified: Mathworks Matlab Certified Machine Learning Techniques
 Certified: India Institute Of Digital Education (IIDE) Digital Marketing Expert
 Certified: Solar Energy Project Expert by National Institute of Solar Energy
 
-### Awards
+## Awards
 Awarded By Gillmore Centre Of Financial Technology Research Hackathon 2024
 Awarded By Warwick Consulting Society Case Competition 2024
 Awarded By The Government Of India (Honoured at State level on Republic Day Parade 2024)
