@@ -26,7 +26,7 @@ Experienced Financial Technology professional specializing in AI-enabled systems
 ### Portfolio Monitoring with SAP HANA Integration
 - Created an portfolio monitoring system integrated with SAP HANA
 - Implemented real-time analytics and reporting capabilities
-- Predictive analytics with industry specific KPIs 
+- Predictive analytics with industry specific KPIs
 - Technologies: SAP HANA, ERP Integration, API Development, Machine Learning
 
 ## 🛠️ Technical Stack
