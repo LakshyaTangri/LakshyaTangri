@@ -1,119 +1,71 @@
-# 👋 Welcome to My Profile!
+# Financial Technology & AI Portfolio
 
-## 🌟 About Me
-Hi, I'm **Lakshya Tangri**, an Ex-entrepreneur, decision maker, and a dynamic professional who bridges the worlds of **technology** and **business strategy**. With **4+ years of management experience** and expertise in **analytics**, **machine learning**, **MATLAB**, **enterprise architecture**, and **digital business strategies**, I create innovative solutions to complex business problems.  
+## About Me
+Experienced Financial Technology professional specializing in AI-enabled systems, venture capital technology, and information security for DeFi platforms. My work focuses on combining artificial intelligence with enterprise architecture to create robust financial management solutions.
 
-Currently pursuing a **Master’s in Information Systems and Digital Innovation**, I focus on leveraging technology to deliver **measurable impact** and **transformational growth**. My portfolio reflects my passion for solving strategic challenges, from **risk management** to **digital transformation**.
+## 🚀 Featured Projects
 
----
+### AI-Enabled Financial Information System for Venture Capital
+- Designed and implemented an AI-powered FMIS using microservice architecture on Azure
+- Integrated machine learning models for investment analysis and risk assessment
+- Leveraged TOGAF framework for enterprise architecture implementation
+- Technologies: Azure Cloud, Microservices, AI/ML, Enterprise Architecture
 
-## 🎯 Vision
-I am preparing to transition into a consulting role at a **top-tier firm (MBB)** by 2025. My goal is to drive **data-driven strategies** and enable businesses to achieve operational excellence and growth through innovation.
+### AI Hedge Fund Platform
+- Developed an automated trading system using artificial intelligence
+- Implemented predictive analytics for market trend analysis
+- Built real-time portfolio monitoring and risk management systems
+- Technologies: Scrapping & APIs, Python, Neural Networks, Financial APIs, Cloud Computing
 
----
+### Information Security Strategy for UniSwap DeFi
+- Designed comprehensive security architecture for DeFi operations
+- Implemented smart contract security protocols and audit procedures
+- Developed incident response and risk mitigation strategies
+- Technologies: Blockchain, Smart Contracts, Security Frameworks
 
-**Languages**: C | PYTHON | MATLAB | R | SQL  <br>
-<br>
-**My skills & Tools:** <br>
-**- Data Science,**<br>
-**- Machine Learning,**<br>
-**- Cloud architecture,**<br>
-**- Enterprise architecture,**<br> 
-**- BPMN (Processes),**<br>
-**- Digital Business & GTM Strategies**<br>
-**- Consultancy**<br>
-        
-## 💼 Featured Projects
+### Portfolio Monitoring with SAP HANA Integration
+- Created an portfolio monitoring system integrated with SAP HANA
+- Implemented real-time analytics and reporting capabilities
+- Predictive analytics with industry specific KPIs 
+- Technologies: SAP HANA, ERP Integration, API Development, Machine Learning
 
-### 1. Price Predictive ML Model Ecomatrices, Geopolitical and 
-- **Project Overview**:
-- **Description**: Developed a Python-based framework to identify and mitigate financial risks such as credit, liquidity, and market risks.  
-- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib.
-- **Methodology**:
-- **Impact**: Enables organizations to adopt **proactive risk management** by leveraging predictive insights.  
-[**Explore Repository →**](https://github.com/LakshyaTangri/Risk-Management-Framework-with-Predictive-Analytics)
+## 🛠️ Technical Stack
 
----
+### Cloud & Infrastructure
+- Microsoft Azure
+- Microservice Architecture
+- Enterprise Architecture (TOGAF)
+- SAP HANA
 
-### 2.  
-- **Project Overview**:
-- **Description**:   
-- **Technologies**:
-- **Methodology**:
-- **Impact**:   
-[**Explore Repository →**](#)
+### Programming & Tools
+- Python
+- Machine Learning Frameworks
+- Neural Network & Deep Learning
+- Smart Contract Development
+- API Development
 
----
+### Security & Blockchain
+- DeFi Security Protocols
+- Blockchain Technology
+- Smart Contract Auditing
+- Risk Management Systems
 
-### 3. MATLAB-Based ML Model for Business Insights *(Upcoming)*  
-- **Project Overview**:
-- **Description**: Using MATLAB to create predictive models for business applications such as churn prediction, operational efficiency, and pricing optimization.  
-- **Technologies**: MATLAB, Machine Learning Toolbox.
-- **Methodology**:
-- **Impact**: Demonstrates MATLAB's potential in delivering scalable ML solutions for real-world problems.  
-[**Explore Repository →**](#)
+## 📈 Enterprise Architecture Experience
+Specialized in implementing TOGAF-based framework for enterprise architecture, focusing on:
+- AI Integration in Financial Systems
+- Microservice Architecture Design
+- Security Architecture
+- Cloud Infrastructure Planning
 
----
+## 📫 Contact & References
+- Professional references & project reports are avialable on request
+- Letters of recommendation from industry leaders
+- Portfolio of completed projects and case studies
 
-### 4. Digital Transformation of FP&A  
-- **Description**: Built a dashboard integrating **predictive analytics** for financial planning and analysis to automate forecasting and reporting processes.  
-- **Technologies**: Power BI, Python, Matlab, AWS Lambda.  
-- **Impact**: Enhances forecasting accuracy and operational efficiency for finance teams.  
-[**Explore Repository →**](#)
-
----
-
-### 5. Market Entry Strategy Simulator *(Upcoming)*  
-- **Description**: A Python-based tool that simulates key variables for entering new markets, including competitor analysis, pricing, and ROI projections.  
-- **Technologies**: Python, Plotly, Pandas.  
-- **Impact**: Empowers businesses to make **data-driven strategic decisions** during expansions.  
-[**Explore Repository →**](#)
-
----
-
-## 📊 Core Skills
-| **Category**            | **Skills/Tools**                                  |
-|--------------------------|--------------------------------------------------|
-| **Programming**          | Python, MATLAB, SQL, R                           |
-| **Analytics**            | Power BI, Tableau, Excel (Advanced)             |
-| **Machine Learning**     | Scikit-learn, TensorFlow, NLP, MATLAB ML Toolbox |
-| **Cloud & Architecture** | AWS (S3, Lambda, EC2), TOGAF, BPMN 2.0          |
-| **Business Skills**      | Problem-Solving, Financial Modeling, Strategy   |
-| **Digital Strategies**   | Machine Learning Model, Digital Transformation, Business Process Optimization |
+## 🏆 Achievements
+- Successfully implemented AI solutions in financial services
+- Developed secure DeFi infrastructure
+- Created efficient portfolio monitoring systems
+- Integrated complex enterprise systems
 
 ---
-
-## 🚀 Competitive Edge
-### **1. Strategic Leadership**  
-- Spearheaded **digital transformation initiatives** as Director at Glyphr Tech Pvt Ltd, increasing revenue by 20% and enhancing user retention by 30%.  
-
-### **2. Technology Meets Business**  
-- Built **data-driven models** and implemented **process improvements**, aligning them with organizational goals.  
-
-### **3. Consulting-Ready Portfolio**  
-- Proven ability to solve complex problems with innovative tech solutions like ML-based **risk frameworks** and **financial dashboards**.  
-
----
-
-## 🌐 Digital Business Strategies Focus
-### Featured Areas:
-- **Digital Transformation**: Driving innovation and efficiency through enterprise-level strategies.  
-- **Business Process Optimization**: Enhancing operational workflows for measurable ROI.  
-
-[**Explore Digital Strategies Projects →**](#)
-
----
-
-## 🤝 Let’s Collaborate!  
-I am open to collaborations on **consulting-oriented solutions**, **enterprise architecture**, or **data-driven tools**. Let’s connect and create impactful solutions together!  
-
-📩 Email: lakshya@example.com  
-🌐 LinkedIn: [LinkedIn.com/in/lakshyatangri](https://www.LinkedIn.com/in/lakshyatangri)  
-
----
-
-## 📌 Next Steps
-- Developing case-study-based projects to simulate consulting scenarios.  
-- Expanding on **MATLAB-based ML tools** and **digital business strategies** for enterprise use cases.  
-
-**Thank you for visiting my profile! Let’s innovate together. 🌟**
