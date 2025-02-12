@@ -57,6 +57,6 @@ Specialized in implementing TOGAF-based framework for enterprise architecture, f
 - Awarded By The Government Of India (Honoured at State level on Republic Day Parade 2024)
 - Letter of recommendation from High Academic Achiever & Business Professionals in the industry
 
-Email at: lakshyatangri1@gmail.com
-LinkedIn: LakshyaTangri
+Email at: lakshyatangri1@gmail.com <br>
+<a herf = "https://www.linkedin.com/in/lakshyatangri/"> LinkedIn: LakshyaTangri </a>
 ---
