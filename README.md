@@ -22,7 +22,6 @@ Specializing in developing Ai-Agents & Ai Enabled Information systems for busine
 - Microservice Architecture
 - Enterprise Inforamtion Systems
 - Enterprise Architecture (TOGAF)
-- 
 
 ### Programming & Tools
 - Python
