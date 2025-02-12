@@ -58,5 +58,5 @@ Specialized in implementing TOGAF-based framework for enterprise architecture, f
 - Letter of recommendation from High Academic Achiever & Business Professionals in the industry
 
 Email at: lakshyatangri1@gmail.com <br>
-<a herf = "https://www.linkedin.com/in/lakshyatangri/"> LinkedIn: LakshyaTangri </a>
+LinkedIn:<a href = "https://www.linkedin.com/in/lakshyatangri/"> LakshyaTangri </a>
 ---
